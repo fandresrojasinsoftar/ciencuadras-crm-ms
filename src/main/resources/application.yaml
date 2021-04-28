@@ -1,0 +1,8 @@
+url:
+    hubspot: https://api.hubapi.com/crm/v3/objects/contacts
+    capital: ${url.hubspot}?hapikey=3e6af6eb-88ab-47a5-aa1e-45fd188e8cf4
+builderCapital:
+    id: 1
+content:
+    name: 'Content-type'
+    value: 'application/json'       
